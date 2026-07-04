@@ -36,10 +36,10 @@ Topics include:
 
 ### Day 1
 
-- Data Analysis Fundamentals
-- Data Cleaning
+- Fundamental data analyst
+- Data Cleansing
 - Data Structure
-- Microsoft Excel
+- Formatting using Excel
 - Case Study
 
 ---
@@ -76,14 +76,12 @@ Topics include:
 
 ## 📂 Learning Repositories
 
-| Repository | Description             |
-| ---------- | ----------------------- |
-| Soon       | Excel Practice          |
-| Soon       | SQL Practice            |
-| Soon       | Python Practice         |
-| Soon       | BigQuery Practice       |
-| Soon       | Looker Studio Dashboard |
-| Soon       | Final Project           |
+| Repository                                                                                       | Description             |
+| ------------------------------------------------------------------------------------------------ | ----------------------- |
+| [DataAnalystwithAI_Karirnex_Day1](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day1) | Excel Practice          |
+| Soon                                                                                             | BigQuery Practice       |
+| Soon                                                                                             | GooglaCollab Practice   |
+| Soon                                                                                             | Looker Studio Dashboard |
 
 ---
 
