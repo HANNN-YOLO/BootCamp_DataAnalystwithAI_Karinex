@@ -48,8 +48,6 @@ Topics include:
 
 - SQL Fundamentals
 - Google BigQuery
-- Query Optimization
-- Google Colab
 - Case Study
 
 ---
@@ -79,7 +77,7 @@ Topics include:
 | Repository                                                                                       | Description             |
 | ------------------------------------------------------------------------------------------------ | ----------------------- |
 | [DataAnalystwithAI_Karirnex_Day1](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day1) | Excel Practice          |
-| Soon                                                                                             | BigQuery Practice       |
+| [DataAnalystwithAI_Karirnex_Day2](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day2) | BigQuery Practice       |
 | Soon                                                                                             | GooglaCollab Practice   |
 | Soon                                                                                             | Looker Studio Dashboard |
 
