@@ -54,10 +54,8 @@ Topics include:
 
 ### Day 3
 
+- fundamental python
 - Python for Data Analysis
-- Pandas
-- NumPy
-- AI Optimization
 - Google Colab
 - Case Study
 
@@ -78,7 +76,7 @@ Topics include:
 | ------------------------------------------------------------------------------------------------ | ----------------------- |
 | [DataAnalystwithAI_Karirnex_Day1](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day1) | Excel Practice          |
 | [DataAnalystwithAI_Karirnex_Day2](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day2) | BigQuery Practice       |
-| Soon                                                                                             | GooglaCollab Practice   |
+| [DataAnalystwithAI_Karirnex_Day3](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day3) | GooglaCollab Practice   |
 | Soon                                                                                             | Looker Studio Dashboard |
 
 ---
