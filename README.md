@@ -77,7 +77,7 @@ Topics include:
 | [DataAnalystwithAI_Karirnex_Day1](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day1) | Excel Practice          |
 | [DataAnalystwithAI_Karirnex_Day2](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day2) | BigQuery Practice       |
 | [DataAnalystwithAI_Karirnex_Day3](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day3) | GooglaCollab Practice   |
-| Soon                                                                                             | Looker Studio Dashboard |
+| [DataAnalystwithAI_Karirnex_Day4](https://github.com/HANNN-YOLO/DataAnalystwithAI_Karirnex_Day4) | Looker Studio Dashboard |
 
 ---
 
